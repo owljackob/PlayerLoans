@@ -1,0 +1,11 @@
+name: PlayerLoans
+version: '${project.version}'
+main: cz.sovajakub.economy.PlayerLoans
+api-version: 1.19
+authors: [ owljackob ]
+depend: [ Vault ]
+libraries:
+  - org.jetbrains:annotations:24.0.0
+  - com.zaxxer:HikariCP:5.0.1
+  - us.figt:Mesh:1.2.1
+  - dev.jorel:commandapi-shade:8.8.0

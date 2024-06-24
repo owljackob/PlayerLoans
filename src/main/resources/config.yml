@@ -1,0 +1,8 @@
+#Language
+Language: "en"
+#Database
+Host: "localhost"
+Port: "3306"
+Name: ""
+User: "root"
+Password: ""

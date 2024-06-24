@@ -1,0 +1,35 @@
+# Errors #
+loan_error_notify_general: "&cSomething strange has happened, contact the administrators!"
+loan_error_notify_delete_loan: "&cWe could not delete the data, contact the administrators!"
+loan_error_notify_null_list: "&cWe could not get the list, contact the administrators!"
+# Requests #
+loan_request_notify_agreed_creditor: "&bYou agreed the loan request from &f{0}&b."
+loan_request_notify_agreed_debtor: "&f{0} &bagreed with your loan request."
+loan_request_notify_disagreed_creditor: "&cYou disagreed the loan request from &f{0}&c."
+loan_request_notify_disagreed_debtor: "&f{0} &cdisagreed with your loan request."
+loan_request_notify_inactive: "&cThis loan request is inactive."
+loan_request_notify_no_money: "&cYou do not have enough money."
+loan_request_notify_sent: "&bYou sent the loan request to &f{0}&b!"
+loan_request_notify_timed_out: "&cThe request timed out."
+# Expired loan #
+loan_expired_notify_creditor: "&f{0} &bdid not pay on time, so we are refunding your money."
+loan_expired_notify_debtor: "&cYou did not pay on time, we took as much as we could."
+# Ask loan #
+loan_ask_notify_wrong_target: "&cWhy would you ask yourself for a loan?"
+loan_ask_component_opinion: "\n&bWhat do you think about this loan request from &f{0}?\n"
+loan_ask_component_deal: "&f{0} &btotal, &f{1} &bfor &f{2} &bdays with &f{3} &binterest rate.\n\n"
+loan_ask_component_agree: "&eAGREE"
+loan_ask_component_disagree: " &eDISAGREE\n"
+# List loans #
+loan_list_notify_none: "&cYou do not have any active loans."
+loan_list_component_header: "&bYour loans\n&f–"
+loan_list_component_row: "\n&bID: &f{0} &bTotal: &f{1} &bDue: &f{2} "
+loan_list_component_pay: "&ePAY"
+loan_list_component_footer: "\n&f–"
+# Pay loan #
+loan_pay_invalid_loan: "&cThe ID is invalid or the loan is inactive."
+loan_pay_invalid_debtor: "&cYou are not the debtor."
+loan_pay_notify_failure_debtor: "&cThe payment was not successful."
+loan_pay_notify_failure_creditor: "&cWe couldn't pay you the money, you'd probably go over the maximum."
+loan_pay_notify_success_debtor: "&bYou paid off the loan."
+loan_pay_notify_success_creditor: "&f{0} &bpaid off the loan."
